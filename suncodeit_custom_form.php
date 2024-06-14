@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name:       Suncode IT Custom Form
- * Plugin URI:        https://test.net/
+ * Plugin URI:        https://encoderit.net/
  * Description:       Handle customized form with the plugin.
  * Version:           1.0.75
  */
